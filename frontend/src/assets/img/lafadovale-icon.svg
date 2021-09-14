@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160"
+   height="160"
+   viewBox="0 0 42.3336 42.3336"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient104389">
+      <stop
+         style="stop-color:#e23b5f;stop-opacity:1"
+         offset="0"
+         id="stop104383" />
+      <stop
+         style="stop-color:#e23b2d;stop-opacity:1"
+         offset="0.50990063"
+         id="stop104385" />
+      <stop
+         style="stop-color:#f4bd40;stop-opacity:1"
+         offset="1"
+         id="stop104387" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient104389"
+       id="linearGradient98151"
+       x1="66.157944"
+       y1="76.373077"
+       x2="66.440422"
+       y2="109.20791"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient104389"
+       id="linearGradient113513"
+       x1="184.97729"
+       y1="117.06751"
+       x2="232.02927"
+       y2="117.06751"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80744994,0,0,0.80744994,-102.32374,-1.2064894)" />
+  </defs>
+  <g
+     id="layer1" />
+  <g
+     id="layer2">
+    <g
+       id="g123976"
+       transform="translate(-44.45028,-71.96712)">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient113513);stroke-width:1.71893;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path113381"
+         cx="66.032211"
+         cy="93.319656"
+         r="18.136585" />
+      <path
+         style="mix-blend-mode:normal;fill:url(#linearGradient98151);fill-opacity:1;stroke:none;stroke-width:2.02684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 66.157943,76.373075 55.72492,94.921747 71.835959,95.025354 66.440424,109.20791 60.189017,92.662933"
+         id="path42" />
+    </g>
+  </g>
+</svg>

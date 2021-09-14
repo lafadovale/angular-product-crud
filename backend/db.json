@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ruffles",
+      "price": "7"
+    },
+    {
+      "id": 2,
+      "name": "Acer Nitro notebook",
+      "price": "10000"
+    },
+    {
+      "id": 3,
+      "name": "iPhone XS Max",
+      "price": 5600
+    },
+    {
+      "name": "PS5",
+      "price": "6000",
+      "id": 5
+    },
+    {
+      "name": "Gamer chair",
+      "price": "1500",
+      "id": 6
+    },
+    {
+      "name": "Nespresso",
+      "price": "500",
+      "id": 7
+    }
+  ]
+}

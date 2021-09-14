@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="191"
+   viewBox="0 0 158.75159 50.535735"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient104389">
+      <stop
+         style="stop-color:#e23b5f;stop-opacity:1"
+         offset="0"
+         id="stop104383" />
+      <stop
+         style="stop-color:#e23b2d;stop-opacity:1"
+         offset="0.50990063"
+         id="stop104385" />
+      <stop
+         style="stop-color:#f4bd40;stop-opacity:1"
+         offset="1"
+         id="stop104387" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient104389"
+       id="linearGradient98151"
+       x1="66.157944"
+       y1="76.373077"
+       x2="66.440422"
+       y2="109.20791"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-40.21692,-68.26293)" />
+    <linearGradient
+       xlink:href="#linearGradient104389"
+       id="linearGradient113513"
+       x1="184.97729"
+       y1="117.06751"
+       x2="232.02927"
+       y2="117.06751"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80744994,0,0,0.80744994,-142.54066,-69.469419)" />
+    <linearGradient
+       xlink:href="#linearGradient104389"
+       id="linearGradient17052"
+       x1="82.699181"
+       y1="34.394695"
+       x2="149.19673"
+       y2="34.394695"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6063px;line-height:1.25;font-family:Bandal;-inkscape-font-specification:Bandal;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.540154;stroke-opacity:1"
+     x="52.686249"
+     y="24.10763"
+     id="text63969"><tspan
+       id="tspan63967"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bandal;-inkscape-font-specification:Bandal;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.540154;stroke-opacity:1"
+       x="52.686249"
+       y="24.10763">lafaDoVale</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4508px;line-height:1.25;font-family:Bandal;-inkscape-font-specification:Bandal;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient17052);fill-opacity:1.0;stroke:none;stroke-width:0.361271"
+     x="81.75988"
+     y="38.609512"
+     id="text67937"><tspan
+       id="tspan67935"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bandal;-inkscape-font-specification:Bandal;fill:url(#linearGradient17052);fill-opacity:1.0;stroke-width:0.361271"
+       x="81.75988"
+       y="38.609512"><tspan
+   style="fill:url(#linearGradient17052);fill-opacity:1.0"
+   id="tspan5004">&lt;</tspan>fsWebDev<tspan
+   style="fill:url(#linearGradient17052);fill-opacity:1.0"
+   id="tspan10920">&gt;</tspan></tspan></text>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:url(#linearGradient113513);stroke-width:1.71893;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path113381"
+     cx="25.81529"
+     cy="25.056726"
+     r="18.136585" />
+  <path
+     style="mix-blend-mode:normal;fill:url(#linearGradient98151);fill-opacity:1;stroke:none;stroke-width:2.02684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 25.941023,8.110145 15.508,26.658817 31.619039,26.762424 26.223504,40.94498 19.972097,24.400003"
+     id="path42" />
+</svg>
